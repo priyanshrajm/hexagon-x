@@ -1,0 +1,11 @@
+{
+  "name": "Gemini Audio Stack",
+  "description": "Next-Gen real-time voice, live audio translation, vocal tone analysis, and multi-speaker transcription powered by Gemini 3.8 Live, 3.5 Transcribe Live, and 3.8 Flash TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
